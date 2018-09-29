@@ -1,5 +1,0 @@
-#! /bin/bash
-
-BASEDIR=$(dirname "$0")
-
-cd "$BASEDIR/jbe/bin" && java -Xdock:icon=../../../Resources/jbe.jpeg ee.ioc.cs.jbe.browser.BrowserApplication

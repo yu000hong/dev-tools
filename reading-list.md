@@ -1,10 +1,30 @@
 # 阅读列表
 
+### 2017-07-23
+
+[PHPBrew: Brew & manage PHP versions in pure PHP at HOME](https://github.com/phpbrew/phpbrew)
+
+[An Explanation of .bashrc and .bash_profile](http://hacktux.com/bashrc-bash_profile/)
+
+[How To Compile And Install PHP Extensions From Source](https://ma.ttias.be/how-to-compile-and-install-php-extensions-from-source/)
+
+[Compiling shared PECL extensions with phpize](http://php.net/manual/en/install.pecl.phpize.php)
+
+[PHP Internals Book](http://www.phpinternalsbook.com/)
+
+[用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
+
+[ext_skel 脚本](http://php.net/manual/zh/internals2.buildsys.skeleton.php)
+
+[关于做PHP扩展开发的一些资源](http://www.laruence.com/2011/09/13/2139.html)
+
 ### 2017-07-22
 
 [15 Excellent Resources for PHP Extension Development](https://www.simonholywell.com/post/2010/09/15-excellent-resources-for-php-extension-development/)
 
 [INSTALL NGINX, PHP AND MYSQL ON OS X](https://blog.frd.mn/install-nginx-php-fpm-mysql-and-phpmyadmin-on-os-x-mavericks-using-homebrew/)
+
+[LaunchDaemons vs LaunchAgents](http://www.grivet-tools.com/blog/2014/launchdaemons-vs-launchagents/)
 
 ### 2017-07-21
 
