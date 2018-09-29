@@ -1,5 +1,83 @@
 # 阅读列表
 
+### 2017-08-23
+
+[接口自动化测试的最佳工程实践（ApiTestEngine）](http://debugtalk.com/post/ApiTestEngine-api-test-best-practice/)
+
+### 2017-08-19
+
+[ANDROID模块化编程之引用本地的AAR](http://stormzhang.com/android/2015/03/01/android-reference-local-aar/)
+
+### 2017-08-16
+
+[Practical Guide to React and CSS Modules](https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/)
+
+[webpack 性能优化](https://zhuanlan.zhihu.com/p/20914387)
+
+### 2017-08-13
+
+[A Better File Structure For React/Redux Applications](https://marmelab.com/blog/2015/12/17/react-directory-structure.html)
+
+### 2017-08-12
+
+[谈谈 ES6 的 Promise 对象](https://segmentfault.com/a/1190000002928371)
+
+### 2017-08-10
+
+[如何看待阿里巴巴最新的「大中台，小前台」组织架构？](https://www.zhihu.com/question/38278138)
+
+### 2017-08-03
+
+[The C10K problem](http://www.kegel.com/c10k.html)
+
+[It's 2016, did we fix the C10K problem?](http://idiallo.com/blog/c10k-2016)
+
+[Why The C10K Problem is Important](https://linuxjedi.co.uk/posts/2015/Feb/14/why-the-c10k-problem-is-important/)
+
+[C10M Problem](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
+
+[C10K问题](https://neo1218.github.io/c10k/)
+
+[协程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328689835ecd883d910145dfa8227b539725e5ed000)
+
+[国内优秀npm镜像推荐及使用](http://riny.net/2014/cnpm/)
+
+### 2017-07-31
+
+[STL File Format for 3D Printing – Simply Explained](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
+
+[16 Best 3D Slicer Software Tools for 3D Printers (Most are Free)](https://all3dp.com/1/best-3d-slicer-software-3d-printer/)
+
+### 2017-07-28
+
+[COMPILER, ASSEMBLER, LINKER AND LOADER](http://www.tenouk.com/ModuleW.html)
+
+### 2017-07-27
+
+[PHP Extensions](http://talks.php.net/show/PECL_Gen/)
+
+### 2017-07-25
+
+[PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md)
+
+[Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+
+[Yaf多模块开发](https://segmentfault.com/a/1190000002599259)
+
+[深入理解PHP内核: Thinking In PHP Internals](http://www.php-internals.com/)
+
+### 2017-07-24
+
+[How the Zend Engine Works: Opcodes and Op Arrays](http://php.find-info.ru/php/016/ch20lev1sec1.html)
+
+[Dumping PHP opcodes](https://ctors.net/2015/09/11/php_opcodes)
+
+[## macro operator](http://www.cprogramming.com/reference/preprocessor/token-pasting-operator.html)
+
+[PHP扩展中的全局变量](http://www.cunmou.com/phpbook/12.4.md)
+
+[PHP源码分析-PHP的生命周期](http://blog.csdn.net/a600423444/article/details/7028905)
+
 ### 2017-07-23
 
 [PHPBrew: Brew & manage PHP versions in pure PHP at HOME](https://github.com/phpbrew/phpbrew)
